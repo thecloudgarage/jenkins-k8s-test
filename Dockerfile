@@ -9,7 +9,6 @@ RUN apt-get update && \
     git \
     nano \
     iputils-ping \
-    mysql-client \
     locales \
     imagemagick \
     graphicsmagick \
